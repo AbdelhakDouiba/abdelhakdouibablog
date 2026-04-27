@@ -1,0 +1,4 @@
+baseURL = 'https://abdelhakdouiba.github.io/abdelhakdouibablog/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'PaperMod'
